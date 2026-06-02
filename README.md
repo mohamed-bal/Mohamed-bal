@@ -91,7 +91,7 @@ Algeria's first **locally operated AI API Gateway** — OpenAI-compatible, DZD-b
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://qqrjstyzebrmnkfkoivg.supabase.co/storage/v1/object/public/profile-assets/doxdz.png" height="20" style="vertical-align:middle"/> [DOXDZ](https://doxdz.com) — Technical Founder
+### <img src="https://qqrjstyzebrmnkfkoivg.supabase.co/storage/v1/object/public/profile-assets/doxdz.png" height="20" style="vertical-align:middle"/> [DOXDZ](https://doxdz.app) — Technical Founder
 `Nov 2025 – May 2026`
 
 Algeria's largest **bilingual digital administrative encyclopedia** — 10,000+ templates with sovereign AI advisory.
