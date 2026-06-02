@@ -13,7 +13,7 @@
   <a href="https://devupai.com" target="_blank">
     <img src="https://img.shields.io/badge/DevUp_AI-0A2540?style=for-the-badge&logo=cloudflare&logoColor=00D2FF" alt="DevUp AI"/>
   </a>
-  <a href="https://doxdz.com" target="_blank">
+  <a href="https://doxdz.app" target="_blank">
     <img src="https://img.shields.io/badge/DOXDZ-0A2540?style=for-the-badge&logo=bookstack&logoColor=00D2FF" alt="DOXDZ"/>
   </a>
   <a href="mailto:devup@devupdz.com">
