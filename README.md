@@ -116,12 +116,13 @@ Algeria's largest **bilingual digital administrative encyclopedia** — 10,000+ 
 
 | Badge | Certification | Issuer | Credential ID |
 |:---:|:---|:---:|:---|
+| <img src="https://qqrjstyzebrmnkfkoivg.supabase.co/storage/v1/object/public/profile-assets/deepmaind.png" height="28"/> | **Train A Small Language Model** | Google DeepMind | `b0a4e29d-094e-4753` |
+| <img src="https://qqrjstyzebrmnkfkoivg.supabase.co/storage/v1/object/public/profile-assets/agent.png" height="28"/> | **Deploy Multi-Agent Architectures** | Google Cloud | `9a2829d0-54f8-4ca4` |
 | <img src="https://qqrjstyzebrmnkfkoivg.supabase.co/storage/v1/object/public/profile-assets/Microsoft.png" height="28"/> | **Applied Skills: GitHub Copilot** | Microsoft | `E7D56442EAB03851` |
 | <img src="https://qqrjstyzebrmnkfkoivg.supabase.co/storage/v1/object/public/profile-assets/Software%20Engineer.png" height="28"/> | **Software Engineer** | HackerRank | `B90EF4E15AAA` |
 | <img src="https://qqrjstyzebrmnkfkoivg.supabase.co/storage/v1/object/public/profile-assets/Frontend%20Developer%20(React).png" height="28"/> | **Frontend Developer (React)** | HackerRank | `BOBO266AF426` |
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,100:0A2540&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Ecosystem & Core Workflow
