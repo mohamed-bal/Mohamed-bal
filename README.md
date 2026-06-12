@@ -81,7 +81,7 @@
 Algeria's first **locally operated AI API Gateway** — OpenAI-compatible, DZD-billed, and built for enterprise-grade inference at scale.
 
 **Architecture highlights:**
-- 🔀 **Multi-LLM Router** — 142+ models (Claude, Gemini, Llama 3, DeepSeek) through a single unified endpoint
+- 🔀 **Multi-LLM Router** — 170+ models (Claude, Gemini, Llama 3, DeepSeek) through a single unified endpoint
 - ⚡ **GPU Cluster** — Scalable inference with zero cold starts, ultra-low latency streaming
 - 🔐 **Zero-Retention Policy** — Inference data processed in RAM only, compliant with **Algerian Law 18-07**
 - 💳 **Localized Billing** — Pay-Per-Token in DZD via Edahabia, CIB & BaridiMob
