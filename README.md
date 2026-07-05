@@ -37,7 +37,7 @@
 
 ### 💻 Full-Stack & Backend
 <p>
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-0A2540?style=for-the-badge&logo=typescript&logoColor=00D2FF"/>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/React-0A2540?style=for-the-badge&logo=react&logoColor=00D2FF"/>
